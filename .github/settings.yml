@@ -1,0 +1,11 @@
+repository:
+    # See https://developer.github.com/v3/repos/#edit for all available settings.
+
+    description: Page HTML
+    homepage: http://edu.iepscf-uccle.be/moodle/mod/workshop/view.php?id=15583
+    has_downloads: true
+    has_issues: false
+    has_projects: false
+    has_wiki: false
+
+    default_branch: master
